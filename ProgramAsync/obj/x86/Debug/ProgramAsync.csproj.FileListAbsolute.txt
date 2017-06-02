@@ -3,3 +3,8 @@
 /Users/xaviertanxy/Projects/ProgramAsync/ProgramAsync/obj/x86/Debug/ProgramAsync.csproj.CoreCompileInputs.cache
 /Users/xaviertanxy/Projects/ProgramAsync/ProgramAsync/obj/x86/Debug/ProgramAsync.exe
 /Users/xaviertanxy/Projects/ProgramAsync/ProgramAsync/obj/x86/Debug/ProgramAsync.pdb
+/Users/xaviertanxy/GitHub/AsyncAwaitExample/ProgramAsync/bin/Debug/ProgramAsync.exe
+/Users/xaviertanxy/GitHub/AsyncAwaitExample/ProgramAsync/bin/Debug/ProgramAsync.pdb
+/Users/xaviertanxy/GitHub/AsyncAwaitExample/ProgramAsync/obj/x86/Debug/ProgramAsync.csproj.CoreCompileInputs.cache
+/Users/xaviertanxy/GitHub/AsyncAwaitExample/ProgramAsync/obj/x86/Debug/ProgramAsync.exe
+/Users/xaviertanxy/GitHub/AsyncAwaitExample/ProgramAsync/obj/x86/Debug/ProgramAsync.pdb
