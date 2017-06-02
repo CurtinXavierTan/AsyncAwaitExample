@@ -13,7 +13,7 @@ Task 4.1.2 : Specifically look into Asynchronous programming with async and awai
 
 I have created a simple C# program to experiment Asynichronous programming.
 
-All code I wrote is in * [here](https://github.com/CurtinXavierTan/AsyncAwaitExample/blob/master/ProgramAsync/Program.cs)
+All code I wrote is in [here](https://github.com/CurtinXavierTan/AsyncAwaitExample/blob/master/ProgramAsync/Program.cs)
 
 ## Getting Started
 
